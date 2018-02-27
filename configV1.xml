@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<data offset="0" block_length="0" type_crc="0" payload="mkt1"/>
+	<data offset="1" block_length="1" type_crc="1" payload="mkt_2"/>
+	<data offset="2" block_length="2" type_crc="2" payload="mktx3"/>
+	<data offset="3" block_length="3" type_crc="3" payload="mkt44"/>
+</config>
