@@ -53,7 +53,9 @@ namespace configParse {
                               }
 
                               configs->insert(configs->end(), *conf);
+
                               delete conf;
+
                               xml.readNext();
                             }
 
@@ -68,7 +70,9 @@ namespace configParse {
             }
         }
 
+
         delete file;
+
         return configs;
     }
 }

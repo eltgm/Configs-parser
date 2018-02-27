@@ -9,5 +9,6 @@ int main(int argc, char* argv[])
     QList<config>* confs = ConfigsParser::getConfig(argv[1]);
 
     delete confs;
+
     return 0;
 }
