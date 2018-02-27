@@ -70,7 +70,6 @@ namespace configParse {
             }
         }
 
-
         delete file;
 
         return configs;
